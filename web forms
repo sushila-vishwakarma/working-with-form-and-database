@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Working with Forms and Database</h1><hr>
+    <h3>1. Web Forms</h3>
+    <h4><p>In the client/server model of data processing, a user to needs to enter relevant data at the client end, which is further submitted to the server for processing. A Web server contains various elements, such as text boxes, radio button, or check boxes, which allow the user to enter the required information.</p></h4>
+    <h3>2. Working with the Tag and Form Elements</h3>
+    <h4>
+        <p>The form HTML tag is used to create an html form for user input. A form can contain various form elements,such as text boxes,check boxes,radio buttons, and submit buttons.Aform can also contain select menus, text area, field set, legend, and label elements.</p>
+    </h4>
+    <h4>The form tag contains attributes, which are:</h4>
+    <h5>1. name</h5>
+    <h5>2. action</h5>
+    <h5>3. method</h5>
+    <h5>4. enctype</h5>
+    <h5>5. text box</h5>
+    <h5>6. radio button</h5>
+    <h5>7. check box</h5>
+    <h5>8. drop down box</h5>
+
+
+</body>
+</html>
